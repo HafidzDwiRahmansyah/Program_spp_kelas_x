@@ -1,0 +1,16 @@
+C:\Users\My-Asus\AppData\Local\Temporary Projects\program spp\bin\Debug\program spp.exe.config
+C:\Users\My-Asus\AppData\Local\Temporary Projects\program spp\obj\Debug\program_spp.Form1.resources
+C:\Users\My-Asus\AppData\Local\Temporary Projects\program spp\obj\Debug\program_spp.Resources.resources
+C:\Users\My-Asus\AppData\Local\Temporary Projects\program spp\obj\Debug\program spp.vbproj.GenerateResource.Cache
+C:\Users\My-Asus\AppData\Local\Temporary Projects\program spp\bin\Debug\program spp.exe
+C:\Users\My-Asus\AppData\Local\Temporary Projects\program spp\bin\Debug\program spp.pdb
+C:\Users\My-Asus\AppData\Local\Temporary Projects\program spp\bin\Debug\program spp.xml
+C:\Users\My-Asus\AppData\Local\Temporary Projects\program spp\obj\Debug\program spp.exe
+C:\Users\My-Asus\AppData\Local\Temporary Projects\program spp\obj\Debug\program spp.xml
+C:\Users\My-Asus\AppData\Local\Temporary Projects\program spp\obj\Debug\program spp.pdb
+C:\Users\My-Asus\Documents\Visual Studio 2012\Projects\program spp\program spp\bin\Debug\program spp.exe.config
+C:\Users\My-Asus\Documents\Visual Studio 2012\Projects\program spp\program spp\obj\Debug\program spp.xml
+C:\Users\My-Asus\Documents\Visual Studio 2012\Projects\program spp\program spp\obj\Debug\program spp.pdb
+C:\Users\My-Asus\Documents\Visual Studio 2012\Projects\program spp\program spp\obj\Debug\program_spp.Form1.resources
+C:\Users\My-Asus\Documents\Visual Studio 2012\Projects\program spp\program spp\obj\Debug\program_spp.Resources.resources
+C:\Users\My-Asus\Documents\Visual Studio 2012\Projects\program spp\program spp\obj\Debug\program spp.vbproj.GenerateResource.Cache
